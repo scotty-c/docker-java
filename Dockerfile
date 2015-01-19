@@ -1,8 +1,8 @@
 
-# Docker file for cent-os with OpenJDK v7 JRE
+# Docker file for CentOS with OpenJDK v7 JRE
 FROM centos:centos7
 
-MAINTAINER Scott Coulton "https://github.com/scotty-c"
+MAINTAINER Scott Coulton "https://github.com/scotty-c/docker-java"
 
 ENV JAVA_VERSION 1.7.0.71
 
