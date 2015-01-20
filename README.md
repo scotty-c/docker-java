@@ -3,6 +3,7 @@ scottyc/java
 
 A simple Java container in CentOS 7.
 
+[`scottyc/java`](https://registry.hub.docker.com/u/scottyc/java/)
 
 ##Running
 
